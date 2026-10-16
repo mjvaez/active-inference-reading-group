@@ -8,7 +8,7 @@ Our main goal is to explore how perception, learning, and action can be understo
 
 ## 📚 Reading Sessions
 
-We plan to study the book *Active Inference* over **10 sessions**.
+We aim to cover the book *Active Inference* in approximately **10 sessions**, depending on the pace of our discussions.
 
 - Each member is expected to lead at least one presentation on an assigned section of the book.
 - Sessions will involve presentations, open discussions, and critical examination of the underlying concepts.
